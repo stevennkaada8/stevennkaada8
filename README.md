@@ -2,7 +2,7 @@
 
 SOC Analyst | BSc Cyber Security | Microsoft Sentinel · GDPR · PowerShell · Python
 
-I help organisations turn compliance requirements into effective governance frameworks, robust security controls, and repeatable processes that stand up to audit. My work focuses on ISO 27001, ISO 27701 and ISO 42001, GDPR, cloud security, and compliance as code. Combining experience from the armed forces, B2C marketing, and information security, I bring a structured approach to risk management that balances security, compliance, and business objectives.
+I'm an emerging SOC Analyst focused on security monitoring, threat detection and risk management. Building experience in SIEM tools, log analysis, security control and compliance. Currently developing practical skills through projects and real life scenarios with a solid foundation in Cyber Security.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenmatuvu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/steven-nkaada-1614a3255/)
