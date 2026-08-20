@@ -9,6 +9,9 @@ I'm an emerging SOC Analyst focused on security monitoring, threat detection and
 
 
 <!-- 
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
+
+
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
   - [Threat Hunting Scenario (Tor Browser)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Tor-Browser/README.md)
