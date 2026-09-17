@@ -8,13 +8,14 @@ I'm an emerging SOC Analyst focused on security monitoring, threat detection and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/steven-nkaada-1614a3255/)
 
 
-<!-- 
+ 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
 
 
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
-  - [Threat Hunting Scenario (Tor Browser)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Tor-Browser/README.md)
+  - [Threat Hunting Scenario (Tor Browser)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
+<!--
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
  
