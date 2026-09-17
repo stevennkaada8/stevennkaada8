@@ -14,7 +14,7 @@ I'm an emerging SOC Analyst focused on security monitoring, threat detection and
 
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
-  - [Threat Hunting Scenario (Tor Browser)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
+  - [Threat Hunting Scenario (Unauthorised Access)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
 <!--
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
