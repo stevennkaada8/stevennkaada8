@@ -15,12 +15,13 @@ I'm an emerging SOC Analyst focused on security monitoring, threat detection and
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
   - [Threat Hunting Scenario (Unauthorised Access)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
+### Tenable Vulnerability Management Project
+  - [Tenable Vulnerability Management Program Implementation](https://github.com/stevennkaada8/vulnerability-management-project/blob/main/README.md)
+
 <!--
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
  
-### ISO 27001: Vulnerability Management Program
-  - [ISO 27001-aligned vulnerability management lifecycle: policy, change control, and evidenced remediation](https://github.com/itsrubenclarke/iso27001-vulnerability-management/blob/main/README.md)
 
 ### Secure Configuration: Windows STIG Remediation (PowerShell)
   - [Windows 10 Security Technical Implementation Guide (STIG) remediation with audit and compliance validation scripts](https://github.com/itsrubenclarke/windows-stig-remediation)
