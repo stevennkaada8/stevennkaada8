@@ -15,6 +15,7 @@ I'm an emerging SOC Analyst focused on security monitoring, threat detection and
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
   - [Threat Hunting Scenario (Unauthorised Access)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
+  -  [Threat Hunting Scenario (The Hartwell Breach)](https://github.com/stevennkaada8/threat-hunting-hartwell)
 ### Tenable Vulnerability Management Project
   - [Tenable Vulnerability Management Program Implementation](https://github.com/stevennkaada8/vulnerability-management-project/blob/main/README.md)
 
