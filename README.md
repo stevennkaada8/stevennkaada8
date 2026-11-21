@@ -1,32 +1,31 @@
 <h1>Steven Nkaada </h1> 
-
+ 
 SOC Analyst | BSc Cyber Security | Microsoft Sentinel · GDPR · PowerShell · Python
-
+ 
 I'm an emerging SOC Analyst focused on security monitoring, threat detection and risk management. Building experience in SIEM tools, log analysis, security control and compliance. Currently developing practical skills through projects and real life scenarios with a solid foundation in Cyber Security.
-
+ 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenmatuvu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/stevennkaada8/)
-
-
+ 
+ 
  
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-000000.svg)](https://github.com/readme-SVG/animated-line)
-
-
+ 
+ 
 ---
 ### <img alt="windows logo" src="https://i.imgur.com/KcrV0u6.png" width="20"> Windows Threat Hunting (Microsoft Defender for Endpoint)
-  - [Threat Hunting Scenario (Unauthorised Access)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)
-  -  [Threat Hunting Scenario (The Hartwell Breach)](https://github.com/stevennkaada8/threat-hunting-hartwell)
+  - [Threat Hunting Scenario (Unauthorised Access)](https://github.com/stevennkaada8/threat-hunting-scenario-defender/blob/main/README.md)<br>
+    Investigated a compromised helpdesk account with KQL in Defender for Endpoint, tracing a disguised implant, C2 traffic, three persistence mechanisms and lateral movement to a second host.
+  - [Threat Hunting Scenario (The Hartwell Breach)](https://github.com/stevennkaada8/threat-hunting-hartwell)<br>
+    Traced a WordPress server intrusion from Nmap recon through a PHP webshell, credential theft, cron persistence and data exfiltration, mapped to MITRE ATT&CK.
 ### Tenable Vulnerability Management Project
-  - [Tenable Vulnerability Management Program Implementation](https://github.com/stevennkaada8/vulnerability-management-project/blob/main/README.md)
-
+  - [Tenable Vulnerability Management Program Implementation](https://github.com/stevennkaada8/vulnerability-management-project/blob/main/README.md)<br>
+    Built a vulnerability management program from policy to remediation, using Tenable scans and PowerShell scripts to cut vulnerabilities on Windows Server by 81%.
 <!--
   - [Threat Hunting Scenario (Impossible Travel)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/Impossible-Travel/README.md)
   - [Threat Hunting Scenario (System Configuration)](https://github.com/itsrubenclarke/Threat-Hunting/blob/main/Windows-Threats/System-Configuration/README.md)
  
-
 ### Secure Configuration: Windows STIG Remediation (PowerShell)
   - [Windows 10 Security Technical Implementation Guide (STIG) remediation with audit and compliance validation scripts](https://github.com/itsrubenclarke/windows-stig-remediation)
-
-
-
 -->
+ 
