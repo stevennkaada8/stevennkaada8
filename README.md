@@ -5,7 +5,7 @@ SOC Analyst | BSc Cyber Security | Microsoft Sentinel · GDPR · PowerShell · P
 I'm an emerging SOC Analyst focused on security monitoring, threat detection and risk management. Building experience in SIEM tools, log analysis, security control and compliance. Currently developing practical skills through projects and real life scenarios with a solid foundation in Cyber Security.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevenmatuvu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/steven-nkaada-1614a3255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?logo=linkedin)](https://www.linkedin.com/in/stevennkaada8/)
 
 
  
